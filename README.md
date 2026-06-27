@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/spuren-im-sand/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Spuren im Sand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/spuren-im-sand/) |
+| **Get License** | [Music Rights & Licensing for Spuren im Sand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/spuren-im-sand/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir hinterlassen Spuren im Sand, Babe, mitten in der Nacht
+> Die ganze City schläft, doch wir beide sind wach
+> Dein Blick so gefährlich, mein Puls auf Highspeed
+> Komm, steig in den Wagen, come ride to the beat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
