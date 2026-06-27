@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/spuren-im-sand/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Spuren im Sand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/spuren-im-sand/) |
+| **Get License** | [License this song: Spuren im Sand](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/spuren-im-sand/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b3f8a7a5e85d5fea0afa5bed21e58fffcace44ff8f9ed6276a70d2981bbd24cf` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

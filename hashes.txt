@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Spuren im Sand
+
+This log tracks the cryptographic history and versioning for the song **Spuren im Sand** (spuren-im-sand).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:32:38.105362 | `v1` | `b3f8a7a5e85d5fea0afa5bed21e58fffcace44ff8f9ed6276a70d2981bbd24cf` | `b24c8e1a893d0e214c2e40c6940b620ddeb38a7790748e8f55a15fe2e21d1a49` | `2026-06-27_spuren-im-sand-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
